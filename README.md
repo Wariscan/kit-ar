@@ -1,2 +1,2 @@
 # kit-ar
-Fast creation kit for AR app creation.
+Fast kit for AR app creation.
