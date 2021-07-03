@@ -12,26 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: generated-lib
   m_EditorClassIdentifier: 
-  m_GuidLow: 5174539738811200079
-  m_GuidHigh: 1152237443264397988
+  m_GuidLow: 5333158680974777805
+  m_GuidHigh: 8256425980827376313
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5633279231530004868
-      m_GuidHigh: 6456593655956902814
+      m_GuidLow: 5760807272967336816
+      m_GuidHigh: 16398181208658949002
     m_SerializedTextureGuid:
-      m_GuidLow: 4952677153335785576
-      m_GuidHigh: 16334348193011414234
-    m_Size: {x: 0.1, y: 0.1}
+      m_GuidLow: 6063680641282456341
+      m_GuidHigh: 4835055303664304234
+    m_Size: {x: 0.3, y: 0.21214285}
     m_SpecifySize: 1
-    m_Name: ImageTarget 02
+    m_Name: 04
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5365352248123195765
-      m_GuidHigh: 13244230184464997774
+      m_GuidLow: 5646367646316320232
+      m_GuidHigh: 7458701616489862306
     m_SerializedTextureGuid:
-      m_GuidLow: 11860281246601075737
-      m_GuidHigh: 8600275886457991529
-    m_Size: {x: 0.1, y: 0.1}
+      m_GuidLow: 3777640199973220987
+      m_GuidHigh: 1927659982034321944
+    m_Size: {x: 0.3, y: 0.21214285}
     m_SpecifySize: 1
-    m_Name: ImageTarget 03
+    m_Name: 07
     m_Texture: {fileID: 0}

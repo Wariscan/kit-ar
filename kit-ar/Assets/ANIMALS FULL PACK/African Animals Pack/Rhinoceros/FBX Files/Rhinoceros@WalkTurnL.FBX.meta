@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 5978fa10c44169d409826063d4717be7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RHINOCEROS_
+    100004: RHINOCEROS_ Head
+    100006: RHINOCEROS_ L Calf
+    100008: RHINOCEROS_ L Clavicle
+    100010: RHINOCEROS_ L Finger0
+    100012: RHINOCEROS_ L Foot
+    100014: RHINOCEROS_ L Forearm
+    100016: RHINOCEROS_ L Hand
+    100018: RHINOCEROS_ L HorseLink
+    100020: RHINOCEROS_ L Thigh
+    100022: RHINOCEROS_ L UpperArm
+    100024: RHINOCEROS_ Neck
+    100026: RHINOCEROS_ Neck1
+    100028: RHINOCEROS_ Pelvis
+    100030: RHINOCEROS_ Queue de cheval 1
+    100032: RHINOCEROS_ R Calf
+    100034: RHINOCEROS_ R Clavicle
+    100036: RHINOCEROS_ R Finger0
+    100038: RHINOCEROS_ R Foot
+    100040: RHINOCEROS_ R Forearm
+    100042: RHINOCEROS_ R Hand
+    100044: RHINOCEROS_ R HorseLink
+    100046: RHINOCEROS_ R Thigh
+    100048: RHINOCEROS_ R UpperArm
+    100050: RHINOCEROS_ Spine
+    100052: RHINOCEROS_ Spine1
+    100054: RHINOCEROS_ Tail
+    100056: RHINOCEROS_ Tail1
+    100058: RHINOCEROS_ Tail2
+    100060: RHINOCEROS_ Tail3
+    100062: RHINOCEROS_ Tail4
+    100064: RHINOCEROS_ Tail5
+    100066: root
+    400000: //RootNode
+    400002: RHINOCEROS_
+    400004: RHINOCEROS_ Head
+    400006: RHINOCEROS_ L Calf
+    400008: RHINOCEROS_ L Clavicle
+    400010: RHINOCEROS_ L Finger0
+    400012: RHINOCEROS_ L Foot
+    400014: RHINOCEROS_ L Forearm
+    400016: RHINOCEROS_ L Hand
+    400018: RHINOCEROS_ L HorseLink
+    400020: RHINOCEROS_ L Thigh
+    400022: RHINOCEROS_ L UpperArm
+    400024: RHINOCEROS_ Neck
+    400026: RHINOCEROS_ Neck1
+    400028: RHINOCEROS_ Pelvis
+    400030: RHINOCEROS_ Queue de cheval 1
+    400032: RHINOCEROS_ R Calf
+    400034: RHINOCEROS_ R Clavicle
+    400036: RHINOCEROS_ R Finger0
+    400038: RHINOCEROS_ R Foot
+    400040: RHINOCEROS_ R Forearm
+    400042: RHINOCEROS_ R Hand
+    400044: RHINOCEROS_ R HorseLink
+    400046: RHINOCEROS_ R Thigh
+    400048: RHINOCEROS_ R UpperArm
+    400050: RHINOCEROS_ Spine
+    400052: RHINOCEROS_ Spine1
+    400054: RHINOCEROS_ Tail
+    400056: RHINOCEROS_ Tail1
+    400058: RHINOCEROS_ Tail2
+    400060: RHINOCEROS_ Tail3
+    400062: RHINOCEROS_ Tail4
+    400064: RHINOCEROS_ Tail5
+    400066: root
+    7400000: WalkTurnL
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: WalkTurnL
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/RHINOCEROS_
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ L Thigh
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ L Thigh/RHINOCEROS_
+          L Calf
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ L Thigh/RHINOCEROS_
+          L Calf/RHINOCEROS_ L HorseLink
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ L Thigh/RHINOCEROS_
+          L Calf/RHINOCEROS_ L HorseLink/RHINOCEROS_ L Foot
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ R Thigh
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ R Thigh/RHINOCEROS_
+          R Calf
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ R Thigh/RHINOCEROS_
+          R Calf/RHINOCEROS_ R HorseLink
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ R Thigh/RHINOCEROS_
+          R Calf/RHINOCEROS_ R HorseLink/RHINOCEROS_ R Foot
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          L Clavicle
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          L Clavicle/RHINOCEROS_ L UpperArm
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          L Clavicle/RHINOCEROS_ L UpperArm/RHINOCEROS_ L Forearm
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          L Clavicle/RHINOCEROS_ L UpperArm/RHINOCEROS_ L Forearm/RHINOCEROS_ L Hand
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          L Clavicle/RHINOCEROS_ L UpperArm/RHINOCEROS_ L Forearm/RHINOCEROS_ L Hand/RHINOCEROS_
+          L Finger0
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          Neck
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          Neck/RHINOCEROS_ Neck1
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          Neck/RHINOCEROS_ Neck1/RHINOCEROS_ Head
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          Neck/RHINOCEROS_ Neck1/RHINOCEROS_ Head/RHINOCEROS_ Queue de cheval 1
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          R Clavicle
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          R Clavicle/RHINOCEROS_ R UpperArm
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          R Clavicle/RHINOCEROS_ R UpperArm/RHINOCEROS_ R Forearm
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          R Clavicle/RHINOCEROS_ R UpperArm/RHINOCEROS_ R Forearm/RHINOCEROS_ R Hand
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Spine/RHINOCEROS_ Spine1/RHINOCEROS_
+          R Clavicle/RHINOCEROS_ R UpperArm/RHINOCEROS_ R Forearm/RHINOCEROS_ R Hand/RHINOCEROS_
+          R Finger0
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Tail
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Tail/RHINOCEROS_ Tail1
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Tail/RHINOCEROS_ Tail1/RHINOCEROS_
+          Tail2
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Tail/RHINOCEROS_ Tail1/RHINOCEROS_
+          Tail2/RHINOCEROS_ Tail3
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Tail/RHINOCEROS_ Tail1/RHINOCEROS_
+          Tail2/RHINOCEROS_ Tail3/RHINOCEROS_ Tail4
+        weight: 1
+      - path: root/RHINOCEROS_/RHINOCEROS_ Pelvis/RHINOCEROS_ Tail/RHINOCEROS_ Tail1/RHINOCEROS_
+          Tail2/RHINOCEROS_ Tail3/RHINOCEROS_ Tail4/RHINOCEROS_ Tail5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: efc890869cc363f4dabe3b942554e74b,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

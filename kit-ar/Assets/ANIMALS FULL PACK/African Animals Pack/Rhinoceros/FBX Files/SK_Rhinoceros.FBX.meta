@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: efc890869cc363f4dabe3b942554e74b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: RHINOCEROS_
+    100002: RHINOCEROS_ Head
+    100004: RHINOCEROS_ L Calf
+    100006: RHINOCEROS_ L Clavicle
+    100008: RHINOCEROS_ L Finger0
+    100010: RHINOCEROS_ L Foot
+    100012: RHINOCEROS_ L Forearm
+    100014: RHINOCEROS_ L Hand
+    100016: RHINOCEROS_ L HorseLink
+    100018: RHINOCEROS_ L Thigh
+    100020: RHINOCEROS_ L UpperArm
+    100022: RHINOCEROS_ Neck
+    100024: RHINOCEROS_ Neck1
+    100026: RHINOCEROS_ Pelvis
+    100028: RHINOCEROS_ Queue de cheval 1
+    100030: RHINOCEROS_ R Calf
+    100032: RHINOCEROS_ R Clavicle
+    100034: RHINOCEROS_ R Finger0
+    100036: RHINOCEROS_ R Foot
+    100038: RHINOCEROS_ R Forearm
+    100040: RHINOCEROS_ R Hand
+    100042: RHINOCEROS_ R HorseLink
+    100044: RHINOCEROS_ R Thigh
+    100046: RHINOCEROS_ R UpperArm
+    100048: RHINOCEROS_ Spine
+    100050: RHINOCEROS_ Spine1
+    100052: RHINOCEROS_ Tail
+    100054: RHINOCEROS_ Tail1
+    100056: RHINOCEROS_ Tail2
+    100058: RHINOCEROS_ Tail3
+    100060: RHINOCEROS_ Tail4
+    100062: RHINOCEROS_ Tail5
+    100064: root
+    100066: //RootNode
+    100068: Sk_Rhinoceros_LOD0
+    100070: Sk_Rhinoceros_LOD1
+    100072: Sk_Rhinoceros_LOD2
+    400000: RHINOCEROS_
+    400002: RHINOCEROS_ Head
+    400004: RHINOCEROS_ L Calf
+    400006: RHINOCEROS_ L Clavicle
+    400008: RHINOCEROS_ L Finger0
+    400010: RHINOCEROS_ L Foot
+    400012: RHINOCEROS_ L Forearm
+    400014: RHINOCEROS_ L Hand
+    400016: RHINOCEROS_ L HorseLink
+    400018: RHINOCEROS_ L Thigh
+    400020: RHINOCEROS_ L UpperArm
+    400022: RHINOCEROS_ Neck
+    400024: RHINOCEROS_ Neck1
+    400026: RHINOCEROS_ Pelvis
+    400028: RHINOCEROS_ Queue de cheval 1
+    400030: RHINOCEROS_ R Calf
+    400032: RHINOCEROS_ R Clavicle
+    400034: RHINOCEROS_ R Finger0
+    400036: RHINOCEROS_ R Foot
+    400038: RHINOCEROS_ R Forearm
+    400040: RHINOCEROS_ R Hand
+    400042: RHINOCEROS_ R HorseLink
+    400044: RHINOCEROS_ R Thigh
+    400046: RHINOCEROS_ R UpperArm
+    400048: RHINOCEROS_ Spine
+    400050: RHINOCEROS_ Spine1
+    400052: RHINOCEROS_ Tail
+    400054: RHINOCEROS_ Tail1
+    400056: RHINOCEROS_ Tail2
+    400058: RHINOCEROS_ Tail3
+    400060: RHINOCEROS_ Tail4
+    400062: RHINOCEROS_ Tail5
+    400064: root
+    400066: //RootNode
+    400068: Sk_Rhinoceros_LOD0
+    400070: Sk_Rhinoceros_LOD1
+    400072: Sk_Rhinoceros_LOD2
+    2100000: M_Rhinoceros
+    4300000: Sk_Rhinoceros_LOD0
+    4300002: Sk_Rhinoceros_LOD2
+    4300004: Sk_Rhinoceros_LOD1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Sk_Rhinoceros_LOD0
+    13700002: Sk_Rhinoceros_LOD1
+    13700004: Sk_Rhinoceros_LOD2
+    20500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

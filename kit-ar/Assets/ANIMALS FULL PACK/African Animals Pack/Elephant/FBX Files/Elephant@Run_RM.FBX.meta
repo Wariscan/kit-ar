@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: 9d8c411b448089e499052918e2722002
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ELEPHANT_
+    100004: ELEPHANT_ Footsteps
+    100006: ELEPHANT_ Head
+    100008: ELEPHANT_ L Calf
+    100010: ELEPHANT_ L Clavicle
+    100012: ELEPHANT_ L Foot
+    100014: ELEPHANT_ L Forearm
+    100016: ELEPHANT_ L Hand
+    100018: ELEPHANT_ L Thigh
+    100020: ELEPHANT_ L UpperArm
+    100022: ELEPHANT_ Neck
+    100024: ELEPHANT_ Neck1
+    100026: ELEPHANT_ Pelvis
+    100028: ELEPHANT_ Queue de cheval 1
+    100030: ELEPHANT_ Queue de cheval 11
+    100032: ELEPHANT_ Queue de cheval 110
+    100034: ELEPHANT_ Queue de cheval 111
+    100036: ELEPHANT_ Queue de cheval 112
+    100038: ELEPHANT_ Queue de cheval 113
+    100040: ELEPHANT_ Queue de cheval 12
+    100042: ELEPHANT_ Queue de cheval 13
+    100044: ELEPHANT_ Queue de cheval 14
+    100046: ELEPHANT_ Queue de cheval 15
+    100048: ELEPHANT_ Queue de cheval 16
+    100050: ELEPHANT_ Queue de cheval 17
+    100052: ELEPHANT_ Queue de cheval 18
+    100054: ELEPHANT_ Queue de cheval 19
+    100056: ELEPHANT_ Queue de cheval 2
+    100058: ELEPHANT_ R Calf
+    100060: ELEPHANT_ R Clavicle
+    100062: ELEPHANT_ R Foot
+    100064: ELEPHANT_ R Forearm
+    100066: ELEPHANT_ R Hand
+    100068: ELEPHANT_ R Thigh
+    100070: ELEPHANT_ R UpperArm
+    100072: ELEPHANT_ Spine
+    100074: ELEPHANT_ Spine1
+    100076: ELEPHANT_ Tail
+    100078: ELEPHANT_ Tail1
+    100080: ELEPHANT_ Tail2
+    100082: ELEPHANT_ Tail3
+    100084: ELEPHANT_ Tail4
+    100086: ELEPHANT_ Tail5
+    100088: ELEPHANT_ Tail6
+    100090: ELEPHANT_ear_L_1
+    100092: ELEPHANt_ear_L_2
+    100094: ELEPHANt_ear_R_1
+    100096: ELEPHANT_ear_R_2
+    100098: root
+    400000: //RootNode
+    400002: ELEPHANT_
+    400004: ELEPHANT_ Footsteps
+    400006: ELEPHANT_ Head
+    400008: ELEPHANT_ L Calf
+    400010: ELEPHANT_ L Clavicle
+    400012: ELEPHANT_ L Foot
+    400014: ELEPHANT_ L Forearm
+    400016: ELEPHANT_ L Hand
+    400018: ELEPHANT_ L Thigh
+    400020: ELEPHANT_ L UpperArm
+    400022: ELEPHANT_ Neck
+    400024: ELEPHANT_ Neck1
+    400026: ELEPHANT_ Pelvis
+    400028: ELEPHANT_ Queue de cheval 1
+    400030: ELEPHANT_ Queue de cheval 11
+    400032: ELEPHANT_ Queue de cheval 110
+    400034: ELEPHANT_ Queue de cheval 111
+    400036: ELEPHANT_ Queue de cheval 112
+    400038: ELEPHANT_ Queue de cheval 113
+    400040: ELEPHANT_ Queue de cheval 12
+    400042: ELEPHANT_ Queue de cheval 13
+    400044: ELEPHANT_ Queue de cheval 14
+    400046: ELEPHANT_ Queue de cheval 15
+    400048: ELEPHANT_ Queue de cheval 16
+    400050: ELEPHANT_ Queue de cheval 17
+    400052: ELEPHANT_ Queue de cheval 18
+    400054: ELEPHANT_ Queue de cheval 19
+    400056: ELEPHANT_ Queue de cheval 2
+    400058: ELEPHANT_ R Calf
+    400060: ELEPHANT_ R Clavicle
+    400062: ELEPHANT_ R Foot
+    400064: ELEPHANT_ R Forearm
+    400066: ELEPHANT_ R Hand
+    400068: ELEPHANT_ R Thigh
+    400070: ELEPHANT_ R UpperArm
+    400072: ELEPHANT_ Spine
+    400074: ELEPHANT_ Spine1
+    400076: ELEPHANT_ Tail
+    400078: ELEPHANT_ Tail1
+    400080: ELEPHANT_ Tail2
+    400082: ELEPHANT_ Tail3
+    400084: ELEPHANT_ Tail4
+    400086: ELEPHANT_ Tail5
+    400088: ELEPHANT_ Tail6
+    400090: ELEPHANT_ear_L_1
+    400092: ELEPHANt_ear_L_2
+    400094: ELEPHANt_ear_R_1
+    400096: ELEPHANT_ear_R_2
+    400098: root
+    7400000: Run_RM
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run_RM
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/ELEPHANT_
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Footsteps
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ L Thigh
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ L Thigh/ELEPHANT_
+          L Calf
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ L Thigh/ELEPHANT_
+          L Calf/ELEPHANT_ L Foot
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ R Thigh
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ R Thigh/ELEPHANT_
+          R Calf
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ R Thigh/ELEPHANT_
+          R Calf/ELEPHANT_ R Foot
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          L Clavicle
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          L Clavicle/ELEPHANT_ L UpperArm
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          L Clavicle/ELEPHANT_ L UpperArm/ELEPHANT_ L Forearm
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          L Clavicle/ELEPHANT_ L UpperArm/ELEPHANT_ L Forearm/ELEPHANT_ L Hand
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1/ELEPHANT_
+          Queue de cheval 11
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1/ELEPHANT_
+          Queue de cheval 11/ELEPHANT_ Queue de cheval 12
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1/ELEPHANT_
+          Queue de cheval 11/ELEPHANT_ Queue de cheval 12/ELEPHANT_ Queue de cheval
+          13
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1/ELEPHANT_
+          Queue de cheval 11/ELEPHANT_ Queue de cheval 12/ELEPHANT_ Queue de cheval
+          13/ELEPHANT_ Queue de cheval 14
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1/ELEPHANT_
+          Queue de cheval 11/ELEPHANT_ Queue de cheval 12/ELEPHANT_ Queue de cheval
+          13/ELEPHANT_ Queue de cheval 14/ELEPHANT_ Queue de cheval 15
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1/ELEPHANT_
+          Queue de cheval 11/ELEPHANT_ Queue de cheval 12/ELEPHANT_ Queue de cheval
+          13/ELEPHANT_ Queue de cheval 14/ELEPHANT_ Queue de cheval 15/ELEPHANT_ Queue
+          de cheval 16
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1/ELEPHANT_
+          Queue de cheval 11/ELEPHANT_ Queue de cheval 12/ELEPHANT_ Queue de cheval
+          13/ELEPHANT_ Queue de cheval 14/ELEPHANT_ Queue de cheval 15/ELEPHANT_ Queue
+          de cheval 16/ELEPHANT_ Queue de cheval 17
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1/ELEPHANT_
+          Queue de cheval 11/ELEPHANT_ Queue de cheval 12/ELEPHANT_ Queue de cheval
+          13/ELEPHANT_ Queue de cheval 14/ELEPHANT_ Queue de cheval 15/ELEPHANT_ Queue
+          de cheval 16/ELEPHANT_ Queue de cheval 17/ELEPHANT_ Queue de cheval 18
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1/ELEPHANT_
+          Queue de cheval 11/ELEPHANT_ Queue de cheval 12/ELEPHANT_ Queue de cheval
+          13/ELEPHANT_ Queue de cheval 14/ELEPHANT_ Queue de cheval 15/ELEPHANT_ Queue
+          de cheval 16/ELEPHANT_ Queue de cheval 17/ELEPHANT_ Queue de cheval 18/ELEPHANT_
+          Queue de cheval 19
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1/ELEPHANT_
+          Queue de cheval 11/ELEPHANT_ Queue de cheval 12/ELEPHANT_ Queue de cheval
+          13/ELEPHANT_ Queue de cheval 14/ELEPHANT_ Queue de cheval 15/ELEPHANT_ Queue
+          de cheval 16/ELEPHANT_ Queue de cheval 17/ELEPHANT_ Queue de cheval 18/ELEPHANT_
+          Queue de cheval 19/ELEPHANT_ Queue de cheval 110
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1/ELEPHANT_
+          Queue de cheval 11/ELEPHANT_ Queue de cheval 12/ELEPHANT_ Queue de cheval
+          13/ELEPHANT_ Queue de cheval 14/ELEPHANT_ Queue de cheval 15/ELEPHANT_ Queue
+          de cheval 16/ELEPHANT_ Queue de cheval 17/ELEPHANT_ Queue de cheval 18/ELEPHANT_
+          Queue de cheval 19/ELEPHANT_ Queue de cheval 110/ELEPHANT_ Queue de cheval
+          111
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1/ELEPHANT_
+          Queue de cheval 11/ELEPHANT_ Queue de cheval 12/ELEPHANT_ Queue de cheval
+          13/ELEPHANT_ Queue de cheval 14/ELEPHANT_ Queue de cheval 15/ELEPHANT_ Queue
+          de cheval 16/ELEPHANT_ Queue de cheval 17/ELEPHANT_ Queue de cheval 18/ELEPHANT_
+          Queue de cheval 19/ELEPHANT_ Queue de cheval 110/ELEPHANT_ Queue de cheval
+          111/ELEPHANT_ Queue de cheval 112
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 1/ELEPHANT_
+          Queue de cheval 11/ELEPHANT_ Queue de cheval 12/ELEPHANT_ Queue de cheval
+          13/ELEPHANT_ Queue de cheval 14/ELEPHANT_ Queue de cheval 15/ELEPHANT_ Queue
+          de cheval 16/ELEPHANT_ Queue de cheval 17/ELEPHANT_ Queue de cheval 18/ELEPHANT_
+          Queue de cheval 19/ELEPHANT_ Queue de cheval 110/ELEPHANT_ Queue de cheval
+          111/ELEPHANT_ Queue de cheval 112/ELEPHANT_ Queue de cheval 113
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ Queue de cheval 2
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ear_L_1
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANT_ear_L_1/ELEPHANt_ear_L_2
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANt_ear_R_1
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          Neck/ELEPHANT_ Neck1/ELEPHANT_ Head/ELEPHANt_ear_R_1/ELEPHANT_ear_R_2
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          R Clavicle
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          R Clavicle/ELEPHANT_ R UpperArm
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          R Clavicle/ELEPHANT_ R UpperArm/ELEPHANT_ R Forearm
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Spine/ELEPHANT_ Spine1/ELEPHANT_
+          R Clavicle/ELEPHANT_ R UpperArm/ELEPHANT_ R Forearm/ELEPHANT_ R Hand
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Tail
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Tail/ELEPHANT_ Tail1
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Tail/ELEPHANT_ Tail1/ELEPHANT_
+          Tail2
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Tail/ELEPHANT_ Tail1/ELEPHANT_
+          Tail2/ELEPHANT_ Tail3
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Tail/ELEPHANT_ Tail1/ELEPHANT_
+          Tail2/ELEPHANT_ Tail3/ELEPHANT_ Tail4
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Tail/ELEPHANT_ Tail1/ELEPHANT_
+          Tail2/ELEPHANT_ Tail3/ELEPHANT_ Tail4/ELEPHANT_ Tail5
+        weight: 1
+      - path: root/ELEPHANT_/ELEPHANT_ Pelvis/ELEPHANT_ Tail/ELEPHANT_ Tail1/ELEPHANT_
+          Tail2/ELEPHANT_ Tail3/ELEPHANT_ Tail4/ELEPHANT_ Tail5/ELEPHANT_ Tail6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: cb960995bb4f73643832e4dd9c745c82,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
