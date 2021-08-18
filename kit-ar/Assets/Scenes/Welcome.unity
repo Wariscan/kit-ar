@@ -193,7 +193,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Learn More
+  m_Text: Info Slider
 --- !u!222 &67803936
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -250,8 +250,9 @@ GameObject:
   - component: {fileID: 186838235}
   - component: {fileID: 186838234}
   - component: {fileID: 186838233}
+  - component: {fileID: 186838236}
   m_Layer: 5
-  m_Name: Button Plane Tracking
+  m_Name: Button Donwload
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -321,14 +322,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 7211474067102198779}
-        m_TargetAssemblyTypeName: LevelLoader, Assembly-CSharp
-        m_MethodName: LoadLevel
-        m_Mode: 3
+      - m_Target: {fileID: 186838236}
+        m_TargetAssemblyTypeName: OpenURL, Assembly-CSharp
+        m_MethodName: OpenLink
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 2
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -371,6 +372,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 186838231}
   m_CullTransparentMesh: 1
+--- !u!114 &186838236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 186838231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da8c0551a522c40bd874113f67ade747, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  URL: https://github.com/Wariscan/kit-ar
 --- !u!1 &243529686
 GameObject:
   m_ObjectHideFlags: 0
@@ -1116,7 +1130,7 @@ GameObject:
   - component: {fileID: 750837486}
   - component: {fileID: 750837485}
   m_Layer: 5
-  m_Name: Button Image Tracking
+  m_Name: Button Augmented Reality
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1193,7 +1207,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 3
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1500,7 +1514,7 @@ GameObject:
   - component: {fileID: 850480857}
   - component: {fileID: 850480856}
   m_Layer: 5
-  m_Name: Buton Learn More
+  m_Name: Buton Info Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1899,9 +1913,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Plane
-
-    Tracking'
+  m_Text: Download
 --- !u!222 &1058415363
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2446,7 +2458,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 381935947}
   m_HandleRect: {fileID: 381935946}
   m_Direction: 2
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -2995,8 +3007,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 326681028}
   m_HandleRect: {fileID: 326681027}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 0.516241
+  m_Value: 1.0000001
+  m_Size: 0.5071457
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3243,9 +3255,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Image
+  m_Text: 'Augmented
 
-    Tracking'
+    Reality'
 --- !u!222 &1661983050
 CanvasRenderer:
   m_ObjectHideFlags: 0

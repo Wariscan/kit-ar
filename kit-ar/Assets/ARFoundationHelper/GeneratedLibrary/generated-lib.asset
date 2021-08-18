@@ -12,66 +12,56 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: generated-lib
   m_EditorClassIdentifier: 
-  m_GuidLow: 5036557622875683141
-  m_GuidHigh: 10757403635821547422
+  m_GuidLow: 5428561278897098113
+  m_GuidHigh: 244901714742888855
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5176713350079153943
-      m_GuidHigh: 15433108574515306426
+      m_GuidLow: 5512840612749768884
+      m_GuidHigh: 8524773127609806268
     m_SerializedTextureGuid:
       m_GuidLow: 6063680641282456341
       m_GuidHigh: 4835055303664304234
     m_Size: {x: 0.3, y: 0.21214285}
     m_SpecifySize: 1
-    m_Name: ImageTarget 04 Rhinoceros
+    m_Name: ImageTarget 07 Rhinoceros
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5308029108613778569
-      m_GuidHigh: 7618403589112781738
+      m_GuidLow: 5610086745713893780
+      m_GuidHigh: 294042759822237876
     m_SerializedTextureGuid:
       m_GuidLow: 10666299899085214637
       m_GuidHigh: 13314743274342649722
     m_Size: {x: 0.3, y: 0.21214285}
     m_SpecifySize: 1
-    m_Name: ImageTarget 05 Elephant
+    m_Name: ImageTarget 08 Elephant
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5662462216552056583
-      m_GuidHigh: 11312477693571945359
+      m_GuidLow: 5056068206191612270
+      m_GuidHigh: 7620272748765733514
     m_SerializedTextureGuid:
       m_GuidLow: 15304693487556269432
       m_GuidHigh: 7062630205751013001
     m_Size: {x: 0.3, y: 0.21214285}
     m_SpecifySize: 1
-    m_Name: ImageTarget 01 Unity
+    m_Name: ImageTarget 03 Unity
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4747579583142660056
-      m_GuidHigh: 50867781515687071
+      m_GuidLow: 4834503152899968974
+      m_GuidHigh: 10396335704957141155
     m_SerializedTextureGuid:
       m_GuidLow: 6059309203026185224
       m_GuidHigh: 12309203469697983208
     m_Size: {x: 0.3, y: 0.21214285}
     m_SpecifySize: 1
-    m_Name: ImageTarget 00 Car
+    m_Name: ImageTarget 00 Kit.AR
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5447589038495226172
-      m_GuidHigh: 13469098547541420458
+      m_GuidLow: 5399998821442790817
+      m_GuidHigh: 12189996806321240497
     m_SerializedTextureGuid:
       m_GuidLow: 3777640199973220987
       m_GuidHigh: 1927659982034321944
     m_Size: {x: 0.3, y: 0.21214285}
     m_SpecifySize: 1
-    m_Name: ImageTarget 07 Roaster
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
-      m_GuidLow: 5067070362009360228
-      m_GuidHigh: 12313057738676282811
-    m_SerializedTextureGuid:
-      m_GuidLow: 15305810819471327056
-      m_GuidHigh: 13138351998514401832
-    m_Size: {x: 0.3, y: 0.21214285}
-    m_SpecifySize: 1
-    m_Name: ImageTarget 06 UI
+    m_Name: ImageTarget 09 Roaster
     m_Texture: {fileID: 0}
