@@ -6,22 +6,22 @@ public class HideAndShowObject : NYImageTrackerEventHandler
 
 {
 
-    public GameObject AugmentedObject;
+    public GameObject ObjectToHideShow;
 
 
     private void Start()
     {
-        AugmentedObject.SetActive(false);
+        ObjectToHideShow.SetActive(false);
     }
 
 
     public override void OnTrackingFound()
     {
-        AugmentedObject.SetActive(true);
+        ObjectToHideShow.SetActive(true);
     }
 
     public override void OnTrackingLost()
     {
-        AugmentedObject.SetActive(false);
+        ObjectToHideShow.SetActive(false);
     }
 }

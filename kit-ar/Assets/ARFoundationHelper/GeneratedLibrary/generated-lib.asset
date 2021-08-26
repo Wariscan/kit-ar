@@ -12,56 +12,56 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: generated-lib
   m_EditorClassIdentifier: 
-  m_GuidLow: 5428561278897098113
-  m_GuidHigh: 244901714742888855
+  m_GuidLow: 5470913821070594575
+  m_GuidHigh: 18283045732348236173
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5512840612749768884
-      m_GuidHigh: 8524773127609806268
+      m_GuidLow: 5226544210888714471
+      m_GuidHigh: 13294158849472644012
     m_SerializedTextureGuid:
       m_GuidLow: 6063680641282456341
       m_GuidHigh: 4835055303664304234
     m_Size: {x: 0.3, y: 0.21214285}
     m_SpecifySize: 1
-    m_Name: ImageTarget 07 Rhinoceros
+    m_Name: ImageTarget Rhinoceros
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5610086745713893780
-      m_GuidHigh: 294042759822237876
+      m_GuidLow: 4685852105873027641
+      m_GuidHigh: 14867447235947789752
     m_SerializedTextureGuid:
       m_GuidLow: 10666299899085214637
       m_GuidHigh: 13314743274342649722
     m_Size: {x: 0.3, y: 0.21214285}
     m_SpecifySize: 1
-    m_Name: ImageTarget 08 Elephant
+    m_Name: ImageTarget Elephant
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5056068206191612270
-      m_GuidHigh: 7620272748765733514
+      m_GuidLow: 5368058635697404896
+      m_GuidHigh: 2225169402324730757
     m_SerializedTextureGuid:
       m_GuidLow: 15304693487556269432
       m_GuidHigh: 7062630205751013001
     m_Size: {x: 0.3, y: 0.21214285}
     m_SpecifySize: 1
-    m_Name: ImageTarget 03 Unity
+    m_Name: ImageTarget Unity
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4834503152899968974
-      m_GuidHigh: 10396335704957141155
+      m_GuidLow: 4947213141755676622
+      m_GuidHigh: 5193006746507985321
     m_SerializedTextureGuid:
       m_GuidLow: 6059309203026185224
       m_GuidHigh: 12309203469697983208
     m_Size: {x: 0.3, y: 0.21214285}
     m_SpecifySize: 1
-    m_Name: ImageTarget 00 Kit.AR
+    m_Name: ImageTarget Kit.AR
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5399998821442790817
-      m_GuidHigh: 12189996806321240497
+      m_GuidLow: 4920994690098172525
+      m_GuidHigh: 15484396438074704796
     m_SerializedTextureGuid:
       m_GuidLow: 3777640199973220987
       m_GuidHigh: 1927659982034321944
     m_Size: {x: 0.3, y: 0.21214285}
     m_SpecifySize: 1
-    m_Name: ImageTarget 09 Roaster
+    m_Name: ImageTarget Roaster
     m_Texture: {fileID: 0}
