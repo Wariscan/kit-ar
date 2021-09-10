@@ -30,7 +30,7 @@ public class HotspotController : MonoBehaviour
 }
 
 
-// Near Interaction
+// Hotspot Controller
 // Created by Shamsul Amar bin Hashim
 // Created 11 Oct 2020
-// Last Updated 23 Apr 2021
+// Last change 29 Aug 2021

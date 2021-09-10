@@ -56,3 +56,8 @@ public class ARTapToPlaceObject : MonoBehaviour
         }
     }
 }
+
+// AR Tap To Place Object
+// Created by Shamsul Amar bin Hashim
+// Created 11 Oct 2020
+// Last change 29 Aug 2021

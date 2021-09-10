@@ -18,3 +18,8 @@ public class ExitVideo : MonoBehaviour
         }
     }
 }
+
+// Exit Video
+// Created by Shamsul Amar bin Hashim
+// Created 11 Oct 2020
+// Last change 29 Aug 2021

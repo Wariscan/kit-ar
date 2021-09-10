@@ -12,12 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: generated-lib
   m_EditorClassIdentifier: 
-  m_GuidLow: 5470913821070594575
-  m_GuidHigh: 18283045732348236173
+  m_GuidLow: 4692713213137227857
+  m_GuidHigh: 3681691479885235888
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5226544210888714471
-      m_GuidHigh: 13294158849472644012
+      m_GuidLow: 4866139933477226684
+      m_GuidHigh: 10445296440695847094
+    m_SerializedTextureGuid:
+      m_GuidLow: 7273387072132088040
+      m_GuidHigh: 6912484100110801066
+    m_Size: {x: 0.3, y: 0.22506204}
+    m_SpecifySize: 1
+    m_Name: ImageTarget 06
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4736459445471424595
+      m_GuidHigh: 12686388748082322105
     m_SerializedTextureGuid:
       m_GuidLow: 6063680641282456341
       m_GuidHigh: 4835055303664304234
@@ -26,8 +36,8 @@ MonoBehaviour:
     m_Name: ImageTarget Rhinoceros
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4685852105873027641
-      m_GuidHigh: 14867447235947789752
+      m_GuidLow: 5018341434572373335
+      m_GuidHigh: 2541705958049728173
     m_SerializedTextureGuid:
       m_GuidLow: 10666299899085214637
       m_GuidHigh: 13314743274342649722
@@ -36,8 +46,8 @@ MonoBehaviour:
     m_Name: ImageTarget Elephant
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5368058635697404896
-      m_GuidHigh: 2225169402324730757
+      m_GuidLow: 5152313315396991047
+      m_GuidHigh: 16528877900771021703
     m_SerializedTextureGuid:
       m_GuidLow: 15304693487556269432
       m_GuidHigh: 7062630205751013001
@@ -46,8 +56,8 @@ MonoBehaviour:
     m_Name: ImageTarget Unity
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4947213141755676622
-      m_GuidHigh: 5193006746507985321
+      m_GuidLow: 5702595634945194973
+      m_GuidHigh: 6817370111993698437
     m_SerializedTextureGuid:
       m_GuidLow: 6059309203026185224
       m_GuidHigh: 12309203469697983208
@@ -56,8 +66,8 @@ MonoBehaviour:
     m_Name: ImageTarget Kit.AR
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4920994690098172525
-      m_GuidHigh: 15484396438074704796
+      m_GuidLow: 4969410202666876389
+      m_GuidHigh: 2811835299249994389
     m_SerializedTextureGuid:
       m_GuidLow: 3777640199973220987
       m_GuidHigh: 1927659982034321944
