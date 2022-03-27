@@ -18,7 +18,8 @@ ImageTarget based AR.
 9. Select our new ImageTarget. Go to the top menu, GameObject > Create Empty Child. Rename it to Object Container.
 10. While Object Container is still selected, goto Inspector and Add Component.
 11. Add Box Collider. Resize Scale to smaller than ImageTarget’s scale (example 0.2, 0.2, 0.2).
-12. Select ImageTarget, goto Inspector, Add Component. Add Hide And Show Object script. Drag-and-drop its Object Container to Augmented Object.
+12. Select ImageTarget, goto Inspector, Add Component. Add Hide And Show Object script. Drag-and-drop its Object Container to Object To Hide Show box.
+13. Select ImageManager GameObject and hit Update Library.
 
 
 **To add 3D model to ImageTarget:**
