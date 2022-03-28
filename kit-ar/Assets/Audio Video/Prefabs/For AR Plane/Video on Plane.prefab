@@ -248,7 +248,7 @@ GameObject:
   - component: {fileID: 4209557812542157772}
   - component: {fileID: 4249063602692472485}
   m_Layer: 0
-  m_Name: Plane Video
+  m_Name: Video on Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

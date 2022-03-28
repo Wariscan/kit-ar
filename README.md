@@ -2,7 +2,7 @@
 A kit for quick AR app creation and deployment. 
 
 ### AR ImageTracker
-This scene (Assets > Scenes > AR ImageTracker) containt all the object we need for
+This scene (Assets > Scenes > AR ImageTracker) contains all the object we need for
 ImageTarget based AR.
 
 
@@ -18,8 +18,8 @@ ImageTarget based AR.
 9. Select our new ImageTarget. Go to the top menu, GameObject > Create Empty Child. Rename it to Object Container.
 10. While Object Container is still selected, goto Inspector and Add Component.
 11. Add Box Collider. Resize Scale to smaller than ImageTarget’s scale (example 0.2, 0.2, 0.2).
-12. Select ImageTarget, goto Inspector, Add Component. Add Hide And Show Object script. Drag-and-drop its Object Container to Augmented Object.
-
+12. Select ImageTarget, goto Inspector, Add Component. Add Hide And Show Object script. Drag-and-drop its Object Container to Object To Hide Show box.
+13. Select ImageManager GameObject and hit Update Library.
 
 **To add 3D model to ImageTarget:**
 1. Any object related to specific ImageTarget should be placed as a child of Object
@@ -33,6 +33,6 @@ Container.
 2. Select Object Container, right-click > 3D Object > Quad. And rename it to Video Frame.
 3. Rotate and reposition Quad accordingly.
 4. Create Material for Quad. In any folder in Project, click on Assets > Create > Material.
-5. Select new created Material. In Inspector, change Albedo color to black.
+5. Select new created Material. In Inspector, change Albedo colour to black.
 6. Drag-and-drop this new Material onto Video Frame.
 7. Select Video Frame. In Inspector, Add Component. Add Video Player and select your video file. Remain Render Mode as Material Override.
