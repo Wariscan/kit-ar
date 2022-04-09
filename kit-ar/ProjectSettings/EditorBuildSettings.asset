@@ -6,14 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/VideoMontaj.unity
+    guid: a3d4540e85ad64686a4fa040a2b2bcd1
+  - enabled: 1
     path: Assets/Scenes/Welcome.unity
     guid: ade2b667857ae44958f1995c22a428b5
   - enabled: 1
     path: Assets/Scenes/Info Slider.unity
     guid: f296a90b02e1447f6a514c7e35a2a8da
   - enabled: 1
-    path: Assets/AR Image/Scene/ImageTracker.unity
-    guid: 1231a8df3e90e42259731a103d74acdc
+    path: Assets/AR Plane/Scene/AR Plane Tracker.unity
+    guid: 02ccea011c92e4be289f35c176baa30c
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0aac7602b71e64d4ebc4fa5cfd75e8b7, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: fab536f27fae74fb086409bf1a52165c, type: 2}

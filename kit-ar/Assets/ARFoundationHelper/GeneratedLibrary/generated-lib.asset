@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: generated-lib
   m_EditorClassIdentifier: 
-  m_GuidLow: 5060345774669338540
-  m_GuidHigh: 7189236723748437676
+  m_GuidLow: 5491946193693580712
+  m_GuidHigh: 13170476195202504353
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5046315624372135224
-      m_GuidHigh: 5653638176767919756
+      m_GuidLow: 4987354872039218645
+      m_GuidHigh: 18234790780944262790
     m_SerializedTextureGuid:
       m_GuidLow: 16463362545148734609
       m_GuidHigh: 9966206144732740872
@@ -26,8 +26,8 @@ MonoBehaviour:
     m_Name: ImageTarget Video UI
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4900481720696159205
-      m_GuidHigh: 11086495355840476858
+      m_GuidLow: 5368926150291202911
+      m_GuidHigh: 3505522663578366624
     m_SerializedTextureGuid:
       m_GuidLow: 6063680641282456341
       m_GuidHigh: 4835055303664304234
@@ -36,8 +36,8 @@ MonoBehaviour:
     m_Name: ImageTarget Rhinoceros
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5716228853672174883
-      m_GuidHigh: 9809322128316740787
+      m_GuidLow: 5566153247104420407
+      m_GuidHigh: 6980994730161508029
     m_SerializedTextureGuid:
       m_GuidLow: 11868512843286215679
       m_GuidHigh: 5891120450855375834
@@ -46,8 +46,8 @@ MonoBehaviour:
     m_Name: ImageTarget GreenScreen
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5379924099674747149
-      m_GuidHigh: 4191594328980307352
+      m_GuidLow: 4659363860794150428
+      m_GuidHigh: 18284197335553725824
     m_SerializedTextureGuid:
       m_GuidLow: 3777640199973220987
       m_GuidHigh: 1927659982034321944
@@ -56,8 +56,8 @@ MonoBehaviour:
     m_Name: ImageTarget Video Player
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5194800446546695197
-      m_GuidHigh: 12470719662680699272
+      m_GuidLow: 4863637399910345908
+      m_GuidHigh: 9233119356531593385
     m_SerializedTextureGuid:
       m_GuidLow: 10666299899085214637
       m_GuidHigh: 13314743274342649722
