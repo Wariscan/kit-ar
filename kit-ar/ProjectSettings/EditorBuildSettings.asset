@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/VideoMontaj.unity
+    path: Assets/Scenes/Montage with Video.unity
     guid: a3d4540e85ad64686a4fa040a2b2bcd1
   - enabled: 1
     path: Assets/Scenes/Welcome.unity

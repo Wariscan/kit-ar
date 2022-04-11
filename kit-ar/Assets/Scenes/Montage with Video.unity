@@ -220,7 +220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 072675d8b4de140b88faedc59d96b1a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  VideoDuration: 10
+  VideoDuration: 13
   NextScene: Welcome
 --- !u!328 &177618275
 VideoPlayer:
@@ -230,7 +230,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 177618270}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: d48c19e17dcb149b190d9a75fd60289c, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 850a3e9de8b6846fd85a9ffc2caef7f4, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 177618272}
