@@ -220,7 +220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 072675d8b4de140b88faedc59d96b1a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  VideoDuration: 13
+  VideoDuration: 12
   NextScene: Welcome
 --- !u!328 &177618275
 VideoPlayer:
