@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: generated-lib
   m_EditorClassIdentifier: 
-  m_GuidLow: 5553530130756480165
-  m_GuidHigh: 3170536364023022255
+  m_GuidLow: 5117591919346714985
+  m_GuidHigh: 15363859147859945611
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 4839827132458113292
-      m_GuidHigh: 13741701005632589956
+      m_GuidLow: 5283933866943327099
+      m_GuidHigh: 483134009099487678
     m_SerializedTextureGuid:
       m_GuidLow: 16463362545148734609
       m_GuidHigh: 9966206144732740872
@@ -26,8 +26,8 @@ MonoBehaviour:
     m_Name: ImageTarget Video UI
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4801041652998966121
-      m_GuidHigh: 385899942636725917
+      m_GuidLow: 5348865431961397200
+      m_GuidHigh: 7703689568565201818
     m_SerializedTextureGuid:
       m_GuidLow: 6063680641282456341
       m_GuidHigh: 4835055303664304234
@@ -36,8 +36,18 @@ MonoBehaviour:
     m_Name: ImageTarget Rhinoceros
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5442897184464353629
-      m_GuidHigh: 38650379164327343
+      m_GuidLow: 5328165302056008477
+      m_GuidHigh: 3121323166740088495
+    m_SerializedTextureGuid:
+      m_GuidLow: 15305810819471327056
+      m_GuidHigh: 13138351998514401832
+    m_Size: {x: 0.3, y: 0.21214285}
+    m_SpecifySize: 1
+    m_Name: ImageTarget Audio Image
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5757110683260731134
+      m_GuidHigh: 14678037008566672820
     m_SerializedTextureGuid:
       m_GuidLow: 6059309203026185224
       m_GuidHigh: 12309203469697983208
@@ -46,8 +56,8 @@ MonoBehaviour:
     m_Name: ImageTarget Kit.AR
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5647972745854938353
-      m_GuidHigh: 10808125598102218894
+      m_GuidLow: 4685320673563001358
+      m_GuidHigh: 12273267882305289394
     m_SerializedTextureGuid:
       m_GuidLow: 11868512843286215679
       m_GuidHigh: 5891120450855375834
@@ -56,8 +66,8 @@ MonoBehaviour:
     m_Name: ImageTarget GreenScreen
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5364803228013004871
-      m_GuidHigh: 8136906198142536109
+      m_GuidLow: 5487127062476525967
+      m_GuidHigh: 1210510673633280139
     m_SerializedTextureGuid:
       m_GuidLow: 3777640199973220987
       m_GuidHigh: 1927659982034321944
@@ -66,8 +76,8 @@ MonoBehaviour:
     m_Name: ImageTarget Video Player
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5514218249806632353
-      m_GuidHigh: 1121144935356597672
+      m_GuidLow: 4679012203748617644
+      m_GuidHigh: 6890579969146130878
     m_SerializedTextureGuid:
       m_GuidLow: 10666299899085214637
       m_GuidHigh: 13314743274342649722
