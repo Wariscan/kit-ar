@@ -12,12 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: generated-lib
   m_EditorClassIdentifier: 
-  m_GuidLow: 5117591919346714985
-  m_GuidHigh: 15363859147859945611
+  m_GuidLow: 5415091775555587963
+  m_GuidHigh: 5274052459605755575
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5283933866943327099
-      m_GuidHigh: 483134009099487678
+      m_GuidLow: 5650385913947691446
+      m_GuidHigh: 17923581844094084017
+    m_SerializedTextureGuid:
+      m_GuidLow: 15304693487556269432
+      m_GuidHigh: 7062630205751013001
+    m_Size: {x: 0.3, y: 0.21214285}
+    m_SpecifySize: 1
+    m_Name: ImageTarget Image and AudioControl
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5408147527181771329
+      m_GuidHigh: 13652236731060916401
     m_SerializedTextureGuid:
       m_GuidLow: 16463362545148734609
       m_GuidHigh: 9966206144732740872
@@ -26,8 +36,8 @@ MonoBehaviour:
     m_Name: ImageTarget Video UI
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5348865431961397200
-      m_GuidHigh: 7703689568565201818
+      m_GuidLow: 5084600680978700463
+      m_GuidHigh: 12100575071783313041
     m_SerializedTextureGuid:
       m_GuidLow: 6063680641282456341
       m_GuidHigh: 4835055303664304234
@@ -36,18 +46,18 @@ MonoBehaviour:
     m_Name: ImageTarget Rhinoceros
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5328165302056008477
-      m_GuidHigh: 3121323166740088495
+      m_GuidLow: 5374414626382487684
+      m_GuidHigh: 2159054706424705944
     m_SerializedTextureGuid:
       m_GuidLow: 15305810819471327056
       m_GuidHigh: 13138351998514401832
     m_Size: {x: 0.3, y: 0.21214285}
     m_SpecifySize: 1
-    m_Name: ImageTarget Audio Image
+    m_Name: ImageTarget Image and Audio
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5757110683260731134
-      m_GuidHigh: 14678037008566672820
+      m_GuidLow: 4905642326988582069
+      m_GuidHigh: 13580488843776676010
     m_SerializedTextureGuid:
       m_GuidLow: 6059309203026185224
       m_GuidHigh: 12309203469697983208
@@ -56,8 +66,8 @@ MonoBehaviour:
     m_Name: ImageTarget Kit.AR
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4685320673563001358
-      m_GuidHigh: 12273267882305289394
+      m_GuidLow: 5724461370728110567
+      m_GuidHigh: 14984184331219916686
     m_SerializedTextureGuid:
       m_GuidLow: 11868512843286215679
       m_GuidHigh: 5891120450855375834
@@ -66,8 +76,8 @@ MonoBehaviour:
     m_Name: ImageTarget GreenScreen
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5487127062476525967
-      m_GuidHigh: 1210510673633280139
+      m_GuidLow: 5215905026551351055
+      m_GuidHigh: 9424077333417156018
     m_SerializedTextureGuid:
       m_GuidLow: 3777640199973220987
       m_GuidHigh: 1927659982034321944
@@ -76,8 +86,8 @@ MonoBehaviour:
     m_Name: ImageTarget Video Player
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4679012203748617644
-      m_GuidHigh: 6890579969146130878
+      m_GuidLow: 4856116521733557445
+      m_GuidHigh: 15324389757015800461
     m_SerializedTextureGuid:
       m_GuidLow: 10666299899085214637
       m_GuidHigh: 13314743274342649722
