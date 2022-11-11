@@ -1,7 +1,7 @@
 Fast kit for AR app creation
 
 ### AR ImageTracker
-This scene (Assets > AR Image Scene > ImageTracker) contains all the objects we need for ImageTarget based AR.
+This scene (Assets > AR Image > Scene > ImageTracker) contains all the objects we need for ImageTarget based AR.
 
 
 **To add more ImageTarget:**
