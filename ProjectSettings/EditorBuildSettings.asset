@@ -6,19 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/ARCore Image/Scene/0 Video with timer.unity
+    path: Assets/Scenes/0 Video with timer.unity
     guid: c42d71f67a7f14cbdaf148e0c1296f1a
   - enabled: 1
-    path: Assets/ARCore Image/Scene/1 Welcome.unity
+    path: Assets/Scenes/1 Welcome.unity
     guid: f607f7561dc60435e8b316da2ff168ea
   - enabled: 1
-    path: Assets/ARCore Image/Scene/2 Info Slider.unity
-    guid: 5c9a5f502d89642cc93f08f77d2c3c9d
+    path: Assets/Scenes/2 Info Slider.unity
+    guid: 544700be21dfa43eeb111c25676f21cb
   - enabled: 1
-    path: Assets/ARCore Image/Scene/3 ImageTracker.unity
-    guid: a838df49116cd42a8ae6437350ac95ca
+    path: Assets/ARCore Plane/Scene/3 PlaneTracker.unity
+    guid: 02ccea011c92e4be289f35c176baa30c
   - enabled: 1
-    path: Assets/ARCore Image/Scene/4 Video with close button.unity
+    path: Assets/Scenes/4 Video with close button.unity
     guid: 890fb8e197f00494fbd77b3ebfe245be
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 15c2e2b08d5634aaaa23ee2aeda31f75, type: 2}
