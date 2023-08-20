@@ -8,6 +8,7 @@ public class LookAtCamera : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+        
 		target = GameObject.Find ("AR Camera");
 	}
 	
