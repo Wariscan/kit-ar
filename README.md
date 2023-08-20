@@ -33,3 +33,25 @@ This scene (Assets > ARCore Image > Scene > 3 ImageTracker) contains all the obj
 4. Select ImageTarget again (parent of Video), go to Inspector, Add Component. Add Hide And Show Object script. Drag-and-drop Video object to Object To Hide Show box. This will allow video content in this ImageTarget dismissed from the screen if ImageTarget is lost.
 5. Select ImageTarget, go to Inspector, Add Component. Add NY Image Tracker Event Handler.
 6. Select the ImageManager object and hit Update Library.
+
+### AR ImageTarget
+
+This scene (Assets > AR ImageTarget > Scene > 3 ImageTarget) contains sample scene to build AR scene with ImageTarget based on EasyAR.
+
+**To add more ImageTarget:**
+
+1. Open Assets > EasyAR > Prefabs > Primitives then drag-and-drop ImageTarget to the scene.
+2. Select Inspector. Under ImageTarget Controller, expand Image File Source then set Path Type to Streaming Assets.
+3. Type in Path same as your ImageTarget inside StreamingAssets folder (including  .jpg).
+
+
+**To add videos to ImageTarget:**
+1. Right click on ImageTarget and select 3D object > Quad.
+2. Select Quad, under Inspector, Under Transform, set Scale X and Y as per video dimension (example: X: 0.8 and Y: 0.6 for 4:3 ratio). 
+3. While Quad still selected, Add Component > Video > Video Player. Then add your video.
+4. To have a significant video box on scene for easy development, add some Material on Quad by dragging an image to it. Unity will automatically add Material for us. This is optional.
+5. To add Video Controller to video, drag-and-drop Video Controller Prefab from Assets > Audio Video > Prefabs > For ImageTarget to ImageTarget . We have two option either that controller is on screen only or follow our ImageTarget. Both serve good.
+6. Select it and right click, Prefab > Unpack Completely.
+7. Expand it and select Button Play. On click, drag-and-drop Quad to Runtime On. Then select set Function to Video Player > Play. Repeat accordingly for Pause and Stop buttons. 
+
+
