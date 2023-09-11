@@ -14,13 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/2 Info Slider.unity
     guid: 544700be21dfa43eeb111c25676f21cb
-  - enabled: 0
+  - enabled: 1
     path: Assets/ARCore Plane/Scene/3 PlaneTracker.unity
     guid: 02ccea011c92e4be289f35c176baa30c
   - enabled: 0
     path: Assets/ARCore Image/Scene/3 ImageTracker.unity
     guid: a838df49116cd42a8ae6437350ac95ca
-  - enabled: 1
+  - enabled: 0
     path: Assets/AR ImageTarget/Scene/3 ImageTarget.unity
     guid: 76293b481d5ea4935a326ccb6c884942
   - enabled: 1
