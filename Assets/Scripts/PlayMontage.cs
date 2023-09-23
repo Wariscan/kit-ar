@@ -1,32 +1,20 @@
-﻿//05 Oktober 2020 7:17 AM
-//Script ini letaknya di Main Camera
-//Bila video dimain sampai hujung, Coroutine akan beralih ke Scene yang lain
-//Script ini tidak sesuai untuk video yang ada Play, Pause dan Stop
-//Script ini hanya untuk video Montage sebelum beralih ke Scene lain
-
-using UnityEngine;
-using System.Collections;
+﻿using UnityEngine;
+using UnityEngine.Video;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class PlayMontage : MonoBehaviour
 {
-    [SerializeField]
-    int VideoDuration = 60;
-    //Sama dengan duration video yang dimainkan
+    [SerializeField] private int SceneToGo = 1;
+    [SerializeField] private VideoPlayer videoPlayer;
 
-    [SerializeField]
-    string NextScene = "Scene Name";
-    //Nama scene seterusnya
-
-    void Start()
+    private void Start()
     {
-        StartCoroutine(Pindah());
-        //Kiraan Coroutine bermula sebaik sahaja GameObject aktif
+        videoPlayer.loopPointReached += EndReached;
     }
 
-    IEnumerator Pindah()
+    private void EndReached(VideoPlayer vp)
     {
-        yield return new WaitForSeconds(VideoDuration);
-        SceneManager.LoadScene(NextScene);
+        SceneManager.LoadScene(SceneToGo);
     }
 }
