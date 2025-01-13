@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af60ffd73611c4ea890c503e77061ebf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163598
+  packageName: Vuforia Engine
+  packageVersion: 10.28.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Animation/Astronaut/Astronaut.controller
+  uploadId: 709809

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a09cb257d566c489595b16ab37547666
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163598
+  packageName: Vuforia Engine
+  packageVersion: 10.28.4
+  assetPath: Assets/SamplesResources/Scenes/0-Main.unity
+  uploadId: 709809

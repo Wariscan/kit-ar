@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 175fca8ff17e17d4cb0f527c89b3d392
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163598
+  packageName: Vuforia Engine
+  packageVersion: 10.28.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Materials/Astronaut/Astronaut.mat
+  uploadId: 709809

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 75ef9db8d65dcfb40969937fa2f6ea8d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163598
+  packageName: Vuforia Engine
+  packageVersion: 10.28.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Materials/Astronaut/Drill.mat
+  uploadId: 709809

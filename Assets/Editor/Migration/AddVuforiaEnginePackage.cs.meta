@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3bbef22eb814a9647b6c1f03e99d95da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163598
+  packageName: Vuforia Engine
+  packageVersion: 10.28.4
+  assetPath: Assets/Editor/Migration/AddVuforiaEnginePackage.cs
+  uploadId: 709809
