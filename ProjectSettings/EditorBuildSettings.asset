@@ -21,9 +21,11 @@ EditorBuildSettings:
     path: Assets/ARCore Image/Scene/3 ImageTracker.unity
     guid: a838df49116cd42a8ae6437350ac95ca
   - enabled: 1
-    path: Assets/Scenes/4 Video with close button.unity
+    path: Assets/Scenes/4 Video with Close Button.unity
     guid: 890fb8e197f00494fbd77b3ebfe245be
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 15c2e2b08d5634aaaa23ee2aeda31f75, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 19ae6935e052845e2ad47fa96e66e363, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 228b77842223b4b0a8cc5bf9b8291494, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e37a7c94e18074e688ab382d107e766d, type: 2}
+  m_UseUCBPForAssetBundles: 0
