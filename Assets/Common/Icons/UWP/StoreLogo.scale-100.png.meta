@@ -168,6 +168,6 @@ AssetOrigin:
   serializedVersion: 1
   productId: 163598
   packageName: Vuforia Engine
-  packageVersion: 10.28.4
+  packageVersion: 10.29.6
   assetPath: Assets/Common/Icons/UWP/StoreLogo.scale-100.png
-  uploadId: 709809
+  uploadId: 725542

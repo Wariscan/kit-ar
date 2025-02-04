@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "kit-ar.sln"
+    "dotnet.defaultSolution": "kit-ar-vuforia.sln"
 }

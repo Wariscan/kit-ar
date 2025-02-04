@@ -10,6 +10,6 @@ AssetOrigin:
   serializedVersion: 1
   productId: 163598
   packageName: Vuforia Engine
-  packageVersion: 10.28.4
+  packageVersion: 10.29.6
   assetPath: Assets/SamplesResources/AugmentationAssets/Textures/Astronaut/Materials/Astronaut_AO.mat
-  uploadId: 709809
+  uploadId: 725542
