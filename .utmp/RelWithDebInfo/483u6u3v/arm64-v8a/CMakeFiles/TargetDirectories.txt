@@ -1,0 +1,5 @@
+/Users/shamsulamar/Unity/kit-ar-vuforia/.utmp/RelWithDebInfo/483u6u3v/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/shamsulamar/Unity/kit-ar-vuforia/.utmp/RelWithDebInfo/483u6u3v/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/shamsulamar/Unity/kit-ar-vuforia/.utmp/RelWithDebInfo/483u6u3v/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/shamsulamar/Unity/kit-ar-vuforia/.utmp/RelWithDebInfo/483u6u3v/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/shamsulamar/Unity/kit-ar-vuforia/.utmp/RelWithDebInfo/483u6u3v/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
